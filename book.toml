@@ -1,0 +1,8 @@
+[book]
+authors = ["Kevin"]
+language = "id"
+multilingual = false
+src = "src"
+title = "Bumafisku"
+
+[preprocessor.katex]
