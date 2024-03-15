@@ -1,3 +1,9 @@
 # Kumpulan Soal Konsep Garis dan Sudut Tingkat SMP/Sederajat [PDF]
 
-[embed](https://raw.githubusercontent.com/vnctkevin/the-book/the-first-book/src/kelas-7/math/garis-dan-sudut/fulltext.pdf)
+  <iframe
+      src="https://bumafisku.vnctkevin.com/kelas-7/math/garis-dan-sudut/fulltext.pdf"
+      width="100%"
+      height="600px"
+      loading="lazy"
+      title="PDF-file"
+  ></iframe>
