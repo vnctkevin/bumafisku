@@ -12,3 +12,5 @@ Materi yang dibahas pada **semester genap** mencakup:
 - PTLSV
 - Himpunan
 - Aljabar
+- Garis dan Sudut
+- Bangun Datar
