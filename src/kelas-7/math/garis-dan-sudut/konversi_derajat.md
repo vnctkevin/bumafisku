@@ -1,7 +1,5 @@
 # Kumpulan Soal Konversi Satuan Sudut
 (Hint: gunakan format pecahan jika hasil pembagian tidak bulat)
-# Kumpulan Soal Konversi Satuan Sudut
-(Hint: gunakan format pecahan jika hasil pembagian tidak bulat)
 
 1. Ubahlah sudut 60 derajat menjadi menit.
 Jawab: _____'
