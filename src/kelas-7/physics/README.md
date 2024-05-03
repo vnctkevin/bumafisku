@@ -7,3 +7,4 @@ Materi yang dibahas pada **semester ganjil** mencakup:
 
 Materi yang dibahas pada **semester genap** mencakup:
 - Unsur, Senyawa, dan Campuran
+- Gerak Lurus
