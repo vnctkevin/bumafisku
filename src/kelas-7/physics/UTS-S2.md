@@ -1,5 +1,6 @@
 # UTS Fisika Kelas 7 Semester 2
 
+## Soal Teori
 1. Jelaskan perbedaan antara campuran heterogen dan homogen. Berikan contoh masing-masing.
 2. Bagaimana cara membedakan campuran homogen dan heterogen menggunakan metode fisik?
 3. Gambarkan contoh campuran heterogen dalam kehidupan sehari-hari dan jelaskan mengapa itu termasuk campuran heterogen.
