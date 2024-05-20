@@ -18,6 +18,7 @@
         - [UTS Genap 2023](./kelas-7/physics/UTS-S2.md)
         - [Soal Massa Jenis](./kelas-7/physics/Latihan_Massa_Jenis.md)
         - [Gerak Lurus](./kelas-7/physics/Latihan_GLB_GLBB.md)
+        - [Latihan PAT Genap 2023](./kelas-7/physics/Latihan_PAT_Genap.md)
 
 - [Kelas 8](./kelas-8/README.md)
 
