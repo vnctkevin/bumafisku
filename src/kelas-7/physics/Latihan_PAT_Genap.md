@@ -7,11 +7,7 @@ Materi:
 ### Unsur, Senyawa, dan Campuran
 1. Lengkapilah tabel di bawah ini!
 
-    | No | Jenis Zat | Ciri-ciri | Contoh dalam kehidupan sehari-hari |
-    |----|-----------|-----------|------------------------------------|
-    | 1  | Unsur     |           |                                    |
-    | 2  | Senyawa   |           |                                    |
-    | 3  | Campuran  |           |                                    |
+    ![tabel-unsur](./assets/tabel-unsur_senyawa_campuran.png)
 
 2. Sebutkan metode-metode yang digunakan untuk memisahkan campuran dan jelaskan prinsip kerjanya!
 3. Jelaskan proses destilasi dan berikan contoh penggunaannya dalam kehidupan sehari-hari!
@@ -21,15 +17,7 @@ Materi:
 ### Asam Basa Garam
 6. Tentukan sifat beberapa bahan di bawah ini berdasarkan hasil identifikasi dengan menggunakan kertas lakmus!
 
-    | Larutan     | Perubahan warna | Sifat larutan |
-    |-------------|-----------------|---------------|
-    |             | Lakmus merah    | Lakmus biru   |
-    | Air sumur   |                 |               |
-    | HCl         |                 |               |
-    | Air jeruk   |                 |               |
-    | NaOH        |                 |               |
-    | NH4OH       |                 |               |
-    | Glukosa     |                 |               |
+    ![tabel-larutan.png](./assets/tabel-larutan.png)
 
 
 7. Jelaskan yang dimaksud dengan reaksi netralisasi! Kemudian sebutkan 2 contoh dalam kehidupan sehari-hari!
