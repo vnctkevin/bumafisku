@@ -8,6 +8,7 @@ Materi yang dibahas pada **semester ganjil** mencakup:
 - KPK/FPB
 
 Materi yang dibahas pada **semester genap** mencakup:
+- Perbandingan
 - PLSV
 - PTLSV
 - Himpunan
