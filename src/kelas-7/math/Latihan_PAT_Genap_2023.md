@@ -56,14 +56,20 @@
 
 ### Garis dan Sudut
 
-1. Jika dua garis sejajar dipotong oleh garis transversal membentuk sudut sehadap sebesar 65°, tentukan ukuran sudut berpelurus.
-2. Ubahlah sudut di bawah ini <br>
+1. ![01-PAT_GDS.jpg](./assets/PAT/01-PAT_GDS.jpg)
+2. ![02-PAT_GDS.jpg](./assets/PAT/02-PAT_GDS.jpg)
+3. ![03-PAT_GDS.jpg](./assets/PAT/03-PAT_GDS.jpg)
+4. ![04-PAT_GDS.jpg](./assets/PAT/04-PAT_GDS.jpg)
+5. ![05-PAT_GDS.jpg](./assets/PAT/05-PAT_GDS.jpg)
+6. ![06-PAT_GDS.jpg](./assets/PAT/06-PAT_GDS.jpg)
+7. ![07-PAT_GDS.jpg](./assets/PAT/07-PAT_GDS.jpg)
+8. ![08-PAT_GDS.jpg](./assets/PAT/08-PAT_GDS.jpg)
+9. ![09-PAT_GDS.jpg](./assets/PAT/09-PAT_GDS.jpg)
+10. ![10-PAT_GDS.jpg](./assets/PAT/10-PAT_GDS.jpg)
+11. ![11-PAT_GDS.jpg](./assets/PAT/11-PAT_GDS.jpg)
+12. Ubahlah sudut di bawah ini <br>
     a. 15° = … ‘ = …‘’ <br>
     b. 720’ = … ° = … “ <br>
-3. Hitunglah sudut yang dibentuk oleh jarum jam pada pukul 3:15.
-4. Dua garis berpotongan membentuk sudut 130°. Tentukan ukuran sudut pelurusnya.
-5. Tentukan sudut total yang dibentuk saat dua garis sejajar dipotong oleh garis transversal dan membentuk sudut dalam bersebrangan sebesar 110°.
-6. Jika dua garis sejajar dipotong oleh garis transversal sehingga membentuk sudut dalam sehadap 120°, berapa besar sudut dalam bersebrangan?
-7. Diketahui sebuah segitiga memiliki sudut 30° dan 65°, hitunglah besar sudut ketiga dalam segitiga tersebut.
-8. Konversikan 75 menit 30 detik ke dalam satuan derajat. Jelaskan langkah-langkah penyelesaiannya dengan detail.
-9. Diketahui dua garis sejajar dan sebuah garis transversal memotong mereka sehingga membentuk sudut dalam bersebrangan sebesar 80°. Berapa besar sudut dalam sehadap?
+13. Hitunglah sudut yang dibentuk oleh jarum jam pada pukul 3:15.
+14. Diketahui sebuah segitiga memiliki sudut 30° dan 65°, hitunglah besar sudut ketiga dalam segitiga tersebut.
+15. Konversikan 75 menit 30 detik ke dalam satuan derajat. Jelaskan langkah-langkah penyelesaiannya dengan detail.
