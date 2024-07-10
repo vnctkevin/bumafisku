@@ -22,5 +22,8 @@
         - [Latihan PAT Genap 2023](./kelas-7/physics/Latihan_PAT_Genap.md)
 
 - [Kelas 8](./kelas-8/README.md)
+    - [Math](./kelas-8/math/README.md)
+        - [Soal Latihan Lingkaran](./kelas-8/math/Latihan_Lingkaran.md)
+    - [Physics](./kelas-8/physics/README.md)
 
 
