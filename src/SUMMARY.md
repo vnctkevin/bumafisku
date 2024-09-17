@@ -26,6 +26,7 @@
         - [Soal Latihan Lingkaran](./kelas-8/math/Latihan_Lingkaran.md)
         - [Soal Deret Aritmatika dan Geometri](./kelas-8/math/Latihan_Deret_Bilangan.md)
         - [Soal Relasi dan Fungsi](./kelas-8/math/Latihan_Relasi_Fungsi.md)
+        - [Soal Latihan PTS Semester 1](./kelas-8/math/Latihan_PTS_S1.md)
     - [Physics](./kelas-8/physics/README.md)
         - [Soal Gaya](./kelas-8/physics/Latihan_Gaya.md)
         - [Soal Usaha dan Energi](./kelas-8/physics/Latihan_Usaha_Energi.md)
