@@ -11,9 +11,7 @@ b.	Jika Ichwan dengan massa 40 kg membonceng Bapak Chandra ketika berangkat seko
 5. Tuliskan Bunyi Hukum Newton I dan berikan 2 (dua) contoh peristiwa yang berkaitan dengan Hukum Newton I !
 6. Berdasarkan perhitungan yang dilakukan astronout, gaya gravitasi dipermukaan BULAN seperlima kali gaya gravitasi BUMI, Jika diketahui massa Astronout 60 Kg, dan percepatan Gravitasi bumi 10 m/s2. Berapakah BERAT Astronout di BUMI dan BULAN ?
 7. Sebuah balok ditarik oleh dua orang anak dengan gaya masing-masing 60 N dan 40 N. Gambarkan dan hitung resultan gaya dua anak tersebut jika:
-    
     a. Kedua gaya tersebut searah.
-    
     b. Kedua gaya tersebut berlawanan arah.
     
 8. Iqbal mendorong sebuah lemari dengan gaya 35 N ke arah kanan. Dari arah yang berlawanan, Fadli mendorong dengan gaya 45 N. Sementara itu, Farah membantu Iqbal dengan mendorong ke arah yang sama sebesar 20 N.
@@ -27,6 +25,8 @@ b.	Jika Ichwan dengan massa 40 kg membonceng Bapak Chandra ketika berangkat seko
     a. Berapa besar gaya yang diperlukan untuk memberikan percepatan tersebut?
     
     b. Jika sepeda motor tersebut dinaiki oleh seorang pengendara yang memiliki massa 50 kg, berapa besar gaya total yang bekerja pada sistem motor-pengendara?
+
+    c. Jika sistem pada pertanyaan (b) ditambah 1 penumpang tambahan dengan massa 40 kg, berapa besar gaya total yang bekerja pada sistem motor-pengendara-penumpang?
     
 10. Sebuah mobil dengan massa 1000 kg bergerak dengan kecepatan awal 72 km/jam. Saat menghindari tabrakan, pengemudi mengerem mobil dengan gaya sebesar 8000 N.
     
@@ -42,4 +42,4 @@ b.	Jika Ichwan dengan massa 40 kg membonceng Bapak Chandra ketika berangkat seko
     
     c. Apa yang dapat kamu simpulkan tentang perbedaan berat dan massa di Bumi dan Bulan?
     
-12. Sebuah kotak bermassa 20 kg didorong di atas lantai datar dengan gaya 50 N ke arah kanan. Jika koefisien gesekan antara kotak dan lantai adalah 0,2, hitung percepatan yang dialami kotak tersebut. (g = 10 m/s²)
+12. Sebuah kotak bermassa 20 kg didorong di atas lantai datar dengan gaya 50 N ke arah kanan. Jika gesekan yang terjadi antara benda dan lantai dianggap 200N, hitung percepatan yang dialami kotak tersebut. (g = 10 m/s²)

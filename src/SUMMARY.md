@@ -30,4 +30,5 @@
     - [Physics](./kelas-8/physics/README.md)
         - [Soal Gaya](./kelas-8/physics/Latihan_Gaya.md)
         - [Soal Usaha dan Energi](./kelas-8/physics/Latihan_Usaha_Energi.md)
+        - [Soal Latihan PTS Fisika Kelas 8 Semester 1](./kelas-8/physics/Latihan_PTS_S1.md)
 
