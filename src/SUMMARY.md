@@ -32,3 +32,10 @@
         - [Soal Usaha dan Energi](./kelas-8/physics/Latihan_Usaha_Energi.md)
         - [Soal Latihan PTS Fisika Kelas 8 Semester 1](./kelas-8/physics/Latihan_PTS_S1.md)
 
+- [Kelas 9](./kelas-9/README.md)
+    - [Math](./kelas-9/math/README.md)
+    - [Physics](./kelas-9/physics/README.md)
+        - [Soal Latihan PAT](./kelas-9/physics/Latihan_PAT.md)
+
+
+
