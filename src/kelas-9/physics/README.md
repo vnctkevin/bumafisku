@@ -1,4 +1,4 @@
-# Dokumentasi Materi Fisika Kelas 8
+# Dokumentasi Materi Fisika Kelas 9
 Materi yang dibahas pada **semester ganjil** mencakup:
 - Gaya
 - Usaha dan Energi

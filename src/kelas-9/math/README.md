@@ -1,4 +1,4 @@
-# Dokumentasi Materi Matematika Kelas 8
+# Dokumentasi Materi Matematika Kelas 9
 Materi yang dibahas pada **semester ganjil** mencakup:
 - Lingkaran
 - Pola Bilangan
