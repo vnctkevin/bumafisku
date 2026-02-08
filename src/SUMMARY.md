@@ -35,6 +35,7 @@
 - [Kelas 9](./kelas-9/README.md)
     - [Math](./kelas-9/math/README.md)
         - [Soal Latihan TO TKA #1](./kelas-9/math/Latihan_TO_TKA_1.md)
+        - [Soal Latihan TO TKA #2](./kelas-9/math/Latihan_TO_TKA_2.md)
     - [Physics](./kelas-9/physics/README.md)
         - [Soal Latihan PAT](./kelas-9/physics/Latihan_PAT.md)
         - [Soal Latihan PTS](./kelas-9/physics/Latihan_PTS.md)
