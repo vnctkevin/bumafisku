@@ -40,6 +40,8 @@
     - [Physics](./kelas-9/physics/README.md)
         - [Soal Latihan PAT](./kelas-9/physics/Latihan_PAT.md)
         - [Soal Latihan PTS](./kelas-9/physics/Latihan_PTS.md)
-
+        - [Soal Latihan TO US 1](./kelas-9/physics/Latihan_US_01.md)
+        - [Soal Latihan TO US 2](./kelas-9/physics/Latihan_US_02.md)
+        
 
 
