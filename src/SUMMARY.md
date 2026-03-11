@@ -42,6 +42,7 @@
         - [Soal Latihan PTS](./kelas-9/physics/Latihan_PTS.md)
         - [Soal Latihan TO US 1](./kelas-9/physics/Latihan_US_01.md)
         - [Soal Latihan TO US 2](./kelas-9/physics/Latihan_US_02.md)
-        
+        - [Soal Latihan TO US - UCUN 2017 A](./kelas-9/physics/Latihan_US-UCUN-2017-A.md)
+        - [Soal Latihan TO US - UCUN 2017 A](./kelas-9/physics/Latihan_US-UCUN-2017-B.md)
 
 
